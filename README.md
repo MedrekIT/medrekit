@@ -1,7 +1,7 @@
 ## Hello there! 🔎
 
 <!--
-**TypoDaniel/typodaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danielyoursensei/danielyoursensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,4 +42,4 @@ Here are some ideas to get you started:
   I need to gain first experience in IT and find out in what area I want to work. I find AI and GameDev the most interesting fields. For now, many technologies which I am learning complement each other or are parts of others.
 
 ### Trivia:
-  I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's, I often use nickname "Tryp0" in games, which means my nickname here is a wordplay
+  I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
