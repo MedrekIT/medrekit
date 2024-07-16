@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 ### Basic info:
   My name is Daniel Mędrek, I am from Poland and I am second year Computer Science student at Lublin University of Technology. My beloved language is Python and I am trying my best to begin my IT career.
 
+### Best projects:
+- [Snake](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/some%20python%20stuff/games/snake)
+- [Sorting algorithms visualisation](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/some%20python%20stuff/visual%20stuff/sorting%20algorithms)
+- [KNeighbours algorithm presentation for iris dataset](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/ML/firstProjectIris)
+
 ### Mastering:
 - English language
 
