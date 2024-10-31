@@ -1,5 +1,3 @@
-## Hello there! 🔎
-
 <!--
 **DanielYourSensei/danielyoursensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,36 +13,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# This is the best place to start if you want to learn something about me!
+## Hello there! This is the best place to start if you want to learn something about me!
 
 ### Basic info:
-  My name is Daniel Mędrek, I am from Poland and I am second year Computer Science student at Lublin University of Technology. My beloved language is Python and I am trying my best to begin my IT career.
+
+  My name is Daniel Mędrek, I am from Poland and I am third year Computer Science student at Lublin University of Technology. My beloved language is Python and I am trying my best to begin my IT career.  
+  **Reach me:**
+  - [LinkedIn](https://www.linkedin.com/in/d-medrek/)
+  - dan.2-300@wp.pl
 
 ### Best projects:
+
 - [Snake](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/some%20python%20stuff/games/snake)
 - [Sorting algorithms visualisation](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/some%20python%20stuff/visual%20stuff/sorting%20algorithms)
 - [KNeighbours algorithm presentation for iris dataset](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/ML/firstProjectIris)
 
 ### Mastering:
-- English language
+
+- DSA
+- Python
+- C++
+- Object-oriented programming
+- Web development (HTML, CSS)
 
 ### Learning:
-- Python
-- DSA
-- MS Excel
+
+- AI/ML
+- GameDev
+- Databases/SQL
+- Web development (JS, PHP)
+- Swift
 
 ### Taking first steps:
-- ML
-- AI
+
 - Data analysis
-- Databases
-- SQL
-- Power BI
-- GameDev
+- Software testing
 - Japanese language
 
 ### My career plans:
-  I need to gain first experience in IT and find out in what area I want to work. I find AI and GameDev the most interesting fields. For now, many technologies which I am learning complement each other or are parts of others.
+
+  I really like three IT branches, those are Software Development, AI and GameDev also. I know Software Development the best and I think it could be best for me. However, I think I'm not bad in those other fields, too.
 
 ### Trivia:
-  I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
+
+  I have english C2 certificate. I took part in AI hackathon, you can find code for it here. I took part in "Proggy-Buggy" programming contest. I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
