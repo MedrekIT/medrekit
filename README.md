@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 
 ### Best projects:
 
-- [Snake](https://github.com/MedrekIT/IT-Learning/tree/6a6026a7da0531a70401187e6246151ded1f41a2/IT%20Learning/programming/some%20python%20stuff/games/snake)
-- [Sorting algorithms visualisation](https://github.com/MedrekIT/IT-Learning/tree/30a693ce62ad06af77340740ed25051fa5c9c64f/IT%20Learning/programming/some%20python%20stuff/visual%20stuff/sorting%20algorithms)
-- [KNeighbours algorithm presentation for iris dataset](https://github.com/MedrekIT/IT-Learning/tree/a8fa1a65e50368d639a56df3df3e797b25fe0a43/IT%20Learning/programming/ML/firstProjectIris)
+- [Snake](https://github.com/MedrekIT/Snake) (Game development, Python, Pygame, OOP)
+- [Sorting algorithms visualisation](https://github.com/MedrekIT/Sorting-algorithms) (DSA, Python, Pygame, OOP)
 
 ### Mastering:
 
