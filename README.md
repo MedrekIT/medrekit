@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Best projects:
 
-- [Maze solver](https://github.com/MedrekIT/Maze-solver) (DSA, Python PyGame OOP)
+- [Maze solver](https://github.com/MedrekIT/Maze-solver) (DSA, Python PyGame, OOP)
 - [Snake](https://github.com/MedrekIT/Snake) (Game development, Python, Pygame, OOP)
 - [Sorting algorithms visualisation](https://github.com/MedrekIT/Sorting-algorithms) (DSA, Python, Pygame, OOP)
 
