@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 ### Trivia:
 
-  I have english C2 certificate. I took part in AI hackathon, you can find code for it here. I took part in "Proggy-Buggy" programming contest. I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
+  I have english C2 certificate. I took part in AI hackathon, you can find code for it [here](https://github.com/MedrekIT/Polbajt). I took part in "Proggy-Buggy" programming contest. I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
