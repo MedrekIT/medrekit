@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 - Computer Science student, passionate about backend development and DevOps.
-- Python enthusiast (with personal experience), also <!--learning Go for backend and some DevOps basics.-->
+- Python enthusiast (with personal experience)<!--, also learning Go for backend and some DevOps basics.-->
 - Curious about computer architecture and low-level systems (I'm going to build a simple computer on a breadboard in a future)
 - Chess player, book lover, and currently leveling up on [Boot.dev](https://boot.dev/) backend course.
 - Always eager to learn, collaborate, and tackle new coding challenges.
