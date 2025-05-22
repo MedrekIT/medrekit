@@ -14,8 +14,8 @@
 ## 🛠️ Skills
 
 - **Programming languages:** Python, C++, JavaScript, HTML, CSS, (a bit of SQL<!--, and learning Go-->)
-- **Technologies & Tools:** Git & GitHub, Neovim, Linux _(Arch btw.)_
-- **Interests:** Algorithms & Data Structures, Visualization, Game Development
+- **Technologies & Tools:** Git & GitHub, Neovim, Linux *(Arch btw.)*
+- **Interests:** Algorithms & Data Structures, Backend, Game Development, AI
 
 ## 🚩 Projects
 
