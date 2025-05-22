@@ -29,7 +29,7 @@
 
 *(More to come!)*
 
-## 🌐 Connect With Me
+## 🌐 Reach me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/d-medrek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
