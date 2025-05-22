@@ -1,59 +1,41 @@
-<!--
-**DanielYourSensei/danielyoursensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile README for MedrekIT -->
 
-Here are some ideas to get you started:
+<h1 align="center">Hi there, I'm MedrekIT</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
 
-## Hello there! This is the best place to start if you want to learn something about me!
+- Computer Science student, passionate about backend development and DevOps.
+- Python enthusiast (with personal experience), also <!--learning Go for backend and some DevOps basics.-->
+- Curious about computer architecture and low-level systems (I'm going to build a simple computer on a breadboard in a future)
+- Chess player, book lover, and currently leveling up on [Boot.dev](https://boot.dev/) backend course.
+- Always eager to learn, collaborate, and tackle new coding challenges.
+- C2 English certificate
 
-### Basic info:
+## 🛠️ Skills
 
-  My name is Daniel Mędrek, I am from Poland and I am third year Computer Science student at Lublin University of Technology. My beloved language is Python and I am trying my best to begin my IT career.  
-  **Reach me:**
-  - [LinkedIn](https://www.linkedin.com/in/d-medrek/)
-  - dan.2-300@wp.pl
+- **Programming languages:** Python, C++, JavaScript, HTML, CSS, (a bit of SQL<!--, and learning Go-->)
+- **Technologies & Tools:** Git & GitHub, Neovim, Linux _(Arch btw.)_
+- **Interests:** Algorithms & Data Structures, Visualization, Game Development
 
-### Best projects:
+## 🚩 Projects
 
-- [Maze solver](https://github.com/MedrekIT/Maze-solver) (DSA, Python PyGame, OOP)
-- [Snake](https://github.com/MedrekIT/Snake) (Game development, Python, Pygame, OOP)
-- [Sorting algorithms visualisation](https://github.com/MedrekIT/Sorting-algorithms) (DSA, Python, Pygame, OOP)
+| Project                                                                     | Description                                                                                     | Tech              |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------|
+| [Snake](https://github.com/MedrekIT/Snake/)                                 | Classic snake game remake in Python                                                             | Python, Pygame    |
+| [Maze Solver](https://github.com/MedrekIT/Maze-solver/)                     | Visualizes maze creation & pathfinding                                                          | Python, Pygame    |
+| [Sorting Visualizer](https://github.com/MedrekIT/Sorting-algorithms)        | Animates various sorting algorithms                                                             | Python, Pygame    |
+| [Asteroids](https://github.com/MedrekIT/asteroids/)                         | Arcade-style asteroid game remake (created with [Boot.dev](https://boot.dev/))                  | Python, Pygame    |
+| [Static site generator](https://github.com/MedrekIT/static-site-generator/) | HTML static site generation from MD format (ongoing created with [Boot.dev](https://boot.dev/)) | Python            |
 
-### Mastering:
+*(More to come!)*
 
-- DSA
-- Python
-- C++
-- Object-oriented programming
-- Web development (HTML, CSS)
+## 🌐 Connect With Me
 
-### Learning:
+<p align="center">
+  <a href="https://www.linkedin.com/in/d-medrek/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dan.2-300@wp.pl"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-- AI/ML
-- GameDev
-- Databases/SQL
-- Web development (JS, PHP)
-- Swift
+---
 
-### Taking first steps:
-
-- Data analysis
-- Software testing
-- Japanese language
-
-### My career plans:
-
-  I really like three IT branches, those are Software Development, AI and GameDev also. I know Software Development the best and I think it could be best for me. However, I think I'm not bad in those other fields, too.
-
-### Trivia:
-
-  I have english C2 certificate. I took part in AI hackathon, you can find code for it [here](https://github.com/MedrekIT/Polbajt). I took part in "Proggy-Buggy" programming contest. I know some of HLA language, which I find really fun to code and interesting, my first job was at McDonald's.
+*Thanks for visiting my profile! If you want to collaborate or just chat about tech, feel free to reach out!*
