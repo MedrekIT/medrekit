@@ -1,6 +1,6 @@
 <!-- Profile README for MedrekIT -->
 
-<h1 align="center">Hi there, I'm MedrekIT</h1>
+<h1 align="center">Hi there, I'm Daniel</h1>
 
 ## 👨‍💻 About Me
 
@@ -19,13 +19,14 @@
 
 ## 🚩 Projects
 
-| Project                                                                     | Description                                                                                     | Tech              |
-|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-------------------|
-| [Snake](https://github.com/MedrekIT/Snake/)                                 | Classic snake game remake in Python                                                             | Python, Pygame    |
-| [Maze Solver](https://github.com/MedrekIT/Maze-solver/)                     | Visualizes maze creation & pathfinding                                                          | Python, Pygame    |
-| [Sorting Visualizer](https://github.com/MedrekIT/Sorting-algorithms)        | Animates various sorting algorithms                                                             | Python, Pygame    |
-| [Asteroids](https://github.com/MedrekIT/asteroids/)                         | Arcade-style asteroid game remake (created with [Boot.dev](https://boot.dev/))                  | Python, Pygame    |
-| [Static site generator](https://github.com/MedrekIT/static-site-generator/) | HTML static site generation from MD format (ongoing created with [Boot.dev](https://boot.dev/)) | Python            |
+| Project                                                                     | Description                                                                                           | Skills                                   |
+|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------|
+| [LEMP Web stack](https://github.com/MedrekIT/lemp_stack/)                   | A Docker Compose container created for building LEMP Web stack from scratch                           | Docker Compose, CI/CD, GitHub Actions    |
+| [Snake](https://github.com/MedrekIT/Snake/)                                 | Classic snake game remake in Python                                                                   | Python, Pygame                           |
+| [Maze Solver](https://github.com/MedrekIT/Maze-solver/)                     | Visualizes maze creation & pathfinding                                                                | Python, Pygame                           |
+| [Sorting Visualizer](https://github.com/MedrekIT/Sorting-algorithms)        | Animates various sorting algorithms                                                                   | Python, Pygame                           |
+| [Asteroids](https://github.com/MedrekIT/asteroids/)                         | Arcade-style asteroid game remake (created with [Boot.dev](https://boot.dev/))                        | Python, Pygame                           |
+| [Static site generator](https://github.com/MedrekIT/static-site-generator/) | **Ongoing project** HTML static site generation from MD format (created with [Boot.dev](https://boot.dev/)) | Python              |
 
 *(More to come!)*
 
